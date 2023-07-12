@@ -45,6 +45,7 @@ The project follows the MVVM architecture pattern with a modularized structure. 
 
 
 **Contributing**
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue in the project's repository.
 
 License

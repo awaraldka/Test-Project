@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Swipe Test</string>
+    <string name="search">Search</string>
+    <string name="product_type">Type:</string>
+    <string name="price">Price:</string>
+    <string name="tax">tax:</string>
+    <string name="products">Products</string>
+    <string name="add">Add</string>
+    <string name="add_product">Add Product</string>
+    <string name="select_product_type">Select Product Type</string>
+</resources>
